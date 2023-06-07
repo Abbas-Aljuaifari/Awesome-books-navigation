@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Awesome Books</title>
+  </head>
+  <body>
+    <nav>
+      <h2>My books</h2>
+      <ul>
+        <li><a href="#bookList">Books List</a></li>
+        <li><a href="#addBookForm">Add Book</a></li>
+        <li><a href="#contactInfo">Contact Info</a></li>
+      </ul>
+    </nav>
+
+    <main>
+      <section id="bookList" class="content-section">
+        <h2>All Awesome books</h2>
+        <ul id="bookListItems"></ul>
+      </section>
+
+      <section id="addBookForm" class="content-section">
+        <h1>Add a new book</h1>
+        <div class="form-container">
+          <form>
+            <input type="text" id="title" placeholder="Title" required />
+            <input type="text" id="author" placeholder="Author" required />
+            <button type="submit">Add</button>
+          </form>
+        </div>
+      </section>
+
+      <section id="contactInfo" class="content-section">
+        <h2>Contact Information</h2>
+        <p>Have any issue? Ask me</p>
+        <p>Email: example@example.com</p>
+        <p>Phone: 123-456-7890</p>
+      </section>
+    </main>
+    <footer>
+      <p>&copy; 2023 Your Company.</p>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
