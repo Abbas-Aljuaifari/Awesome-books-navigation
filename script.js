@@ -15,10 +15,7 @@ function renderBookList() {
     // Function to remove a book from the collection
     function removeBook(index) {
       bookCollection.splice(index, 1);
-      localStorage.setItem(
-        'bookCollection',
-        JSON.stringify(bookCollection),
-      );
+      localStorage.setItem('bookCollection', JSON.stringify(bookCollection));
       renderBookList();
     }
 
