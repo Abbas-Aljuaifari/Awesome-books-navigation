@@ -33,7 +33,7 @@
 
 # 📖 [Awesome Books] <a name="about-project"></a>
 
-**[Awesome Books]** In this project, I'm learning to build a basic website that allows users to add/remove books from a list. also used object oriented programming(class). that dynamically modify the DOM and add basic events.
+**[Awesome Books]** In this project, I'm learning to build a basic website that allows users to add/remove books from a list. also used object oriented programming(class) array and objects also. so that it's dynamically modify's the DOM and add basic events.
 to get a professional interface that presents the work on my projects,
 pleas know that it is still on going and it needs more work but everything is coming together soon!
 
@@ -65,7 +65,7 @@ pleas know that it is still on going and it needs more work but everything is co
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://abbas-aljuaifari.github.io/Awesome-book/)
+- [Live Demo Link](https://abbas-aljuaifari.github.io/Awesome-books-navigation/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
